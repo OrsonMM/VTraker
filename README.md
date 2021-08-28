@@ -57,9 +57,13 @@ Treecluster - Para detectar los cluster en una filogenía - (https://github.com/
 
 **Autores**
 
-:) Orson Mestanza,
-Pierre Padilla,
-Alejandro Lopez,
+Orson Mestanza
+
+Pierre Padilla
+
+Alejandro Lopez
+
 Edgar Aza
+
 Diana Tapia
 
