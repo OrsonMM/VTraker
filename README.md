@@ -9,11 +9,11 @@ En el presente repositorio se comparten cuatro scripts desarrollados en lenguaje
 En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emergentes es una tarea manual, y debe de proponerse en la página oficial (https://github.com/cov-lineages/pango-designation) donde un grupo de expertos decide si es posible asignarle un nombre basados en unas reglas sugeridas por ellos (https://www.pango.network/the-pango-nomenclature-system/statement-of-nomenclature-rules/). Los scripts desarrollados usan las reglas propuestas dando como producto final un posible linaje emergente a ser propuesto. 
 
 
-**Manual para el Usuario **
+**Manual para el Usuario**
 
-**Limitaciones **
+**Limitaciones**
 
-**Desarrollo Futuro ** 
+**Desarrollo Futuro** 
 
 **Dependencias**
 
