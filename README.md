@@ -18,7 +18,11 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 **Flujo de trabajo de V.Tracker**
 
-![pseudocodigo_diplomado](https://user-images.githubusercontent.com/12600107/131232682-1acd17c0-4605-45c3-819e-ac99d0097df8.png)
+![pseudocodigo_diplomado (1)](https://user-images.githubusercontent.com/12600107/131232717-52e2c9ef-3cdc-4248-a321-5758c0fd61d8.png)
+
+                       Figura 2. Diagrama de flujo de trabajo desarrollado
+
+
 
 **Manual para el Usuario**
 
