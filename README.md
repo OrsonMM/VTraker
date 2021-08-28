@@ -11,7 +11,9 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 ![imagen_orson](https://user-images.githubusercontent.com/12600107/131230337-10c7b01c-aed3-4663-a1d9-f946156e3986.png)
 
-Figura 1. Representación de cluster nuevos detectados y sus mutaciones asociadas. 
+                      Figura 1. Representación de cluster nuevos detectados y sus mutaciones asociadas. 
+
+
 
 
 **Flujo de trabajo de V.Tracker**
