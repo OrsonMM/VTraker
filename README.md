@@ -14,7 +14,19 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 Figura 1. Representación de cluster nuevos detectados y sus mutaciones asociadas. 
 
 
+**Flujo de trabajo de V.Tracker**
+
+![pseudocodigo_diplomado](https://user-images.githubusercontent.com/12600107/131232682-1acd17c0-4605-45c3-819e-ac99d0097df8.png)
+
 **Manual para el Usuario**
+
+
+
+
+
+
+
+
 
 **Limitaciones**
 
