@@ -1,4 +1,5 @@
-## VTraker  ![logo](https://user-images.githubusercontent.com/12600107/131232911-03228466-88d5-4306-9c1a-b69b08e3ac80.png)
+## VTraker  ![logo](https://user-images.githubusercontent.com/12600107/131232930-64bae9f4-67af-498a-bea0-2d8ea785e67d.png)
+
 
 
 **Diplomatura en Big Data y Machine Learning contra COVID-19**
