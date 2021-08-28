@@ -20,6 +20,7 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 Es necesario instalar estos programas para el correcto funcionamiento 
 
 Iqtree2 - Para generar el análisis filogenético - (http://www.iqtree.org/)
+
 Treecluster - Para detectar los cluster en una filogenía - (https://github.com/niemasd/TreeCluster)
 
 
