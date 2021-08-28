@@ -11,7 +11,7 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 ![imagen_orson](https://user-images.githubusercontent.com/12600107/131230337-10c7b01c-aed3-4663-a1d9-f946156e3986.png)
 
-                      Figura 1. Representación de cluster nuevos detectados y sus mutaciones asociadas. 
+                         Figura 1. Representación de cluster nuevos detectados y sus mutaciones asociadas. 
 
 
 
@@ -20,7 +20,7 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 ![pseudocodigo_diplomado (1)](https://user-images.githubusercontent.com/12600107/131232717-52e2c9ef-3cdc-4248-a321-5758c0fd61d8.png)
 
-                       Figura 2. Diagrama de flujo de trabajo desarrollado
+                                     Figura 2. Diagrama de flujo de trabajo desarrollado
 
 
 
