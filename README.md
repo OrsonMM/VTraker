@@ -52,4 +52,11 @@ Iqtree2 - Para generar el análisis filogenético - (http://www.iqtree.org/)
 
 Treecluster - Para detectar los cluster en una filogenía - (https://github.com/niemasd/TreeCluster)
 
+**Autores**
+
+Ø  Orson Mestanza,
+Ø  Pierre Padilla,
+Ø  Alejandro Lopez,
+Ø  Edgar Aza
+Ø  Diana Tapia
 
