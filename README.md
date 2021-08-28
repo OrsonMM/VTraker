@@ -11,8 +11,9 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 ** Manual para el Usuario **
 
-** Desarrollo Futuro ** 
+** Limitaciones **
 
+** Desarrollo Futuro ** 
 
 ** Dependencias**
 
