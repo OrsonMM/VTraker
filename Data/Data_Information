@@ -1,1 +1,5 @@
-Describimos cuales son los archivos para cada script 
+Describimos cuales son los archivos para cada script
+
+files: 
+
+result_all_c37_nextclade.tsv -----> NT_mutation.py 
