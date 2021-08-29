@@ -1,5 +1,6 @@
 Describimos cuales son los archivos para cada script
 
-files: 
+files ------ input to ------> Program Python
 
-result_all_c37_nextclade.tsv -----> NT_mutation.py 
+result_all_c37_nextclade.tsv          -----> NT_mutation.py 
+gisaid_hcov-19_2021_08_29_01.tsv      -----> Epide_mut.py
