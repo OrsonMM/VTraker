@@ -5,7 +5,7 @@
 
 **Diplomatura en Big Data y Machine Learning contra COVID-19**
 
-La evolución de la pandemia del SARS-CoV-2 produce nuevas variantes caracterizando las diferentes realidades epidemiológicas. En ese sentido poder detectar a tiempo los nuevos clados y sus mutaciones asociadas (Figura 1), en especial monitorear los cambios asociados a la proteína Spike del virus es una tarea rutinaria que se vuelve más compleja con el actual volumen de información generada cada día.  
+La evolución de la pandemia del SARS-CoV-2 produce nuevas variantes caracterizando las diferentes realidades epidemiológicas. En ese sentido poder detectar a tiempo los nuevos clados y sus mutaciones asociadas (Figura 1), en especial monitorear los cambios asociados a la proteína Spike del virus es una tarea rutinaria que se vuelve más compleja con el actual volumen de información generada cada día (Big data).  
 
 En el presente repositorio se comparten cuatro scripts desarrollados en lenguaje python ejecutables en google colab. El conjunto de estos cuatro scripts forman la versión beta 1 del software VTraker (Virus Tracker). 
 
