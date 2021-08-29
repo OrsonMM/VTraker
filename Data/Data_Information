@@ -2,7 +2,7 @@ Describimos cuales son los archivos para cada script
 
 files ------ input to ------> Program Python
 
-result_all_c37_nextclade.tsv          -----> NT_mutation.py
-gisaid_hcov-19_2021_08_16_15.tsv      -----> AA_mutation.py
-gisaid_hcov-19_2021_08_29_01.tsv      -----> Epide_mut.py
-metadata_microreact.tsv and  -----> phylo_mut.py
+result_all_c37_nextclade.tsv                              -----> NT_mutation.py
+gisaid_hcov-19_2021_08_16_15.tsv                          -----> AA_mutation.py
+gisaid_hcov-19_2021_08_29_01.tsv                          -----> Epide_mut.py
+metadata_microreact.tsv and all_alineados_C37_editado.nwk -----> phylo_mut.py
