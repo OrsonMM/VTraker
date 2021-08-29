@@ -39,7 +39,7 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 
 **Limitaciones**
 
-1. Actualmente el VTracker solo se encuentra disponible en formato Google colab. Eso impide cargar linajes grandes como Alfa, gamma y delta.
+1. Actualmente el VTracker solo se encuentra disponible en formato Google colab.
 2. El análisis filogenético es necesario generar a parte. 
 3. Es necesario someterlo a más pruebas para comprobar su real rendimiento.
 
