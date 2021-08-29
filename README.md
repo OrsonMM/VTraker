@@ -30,7 +30,7 @@ En que nos ayuda: Actualmente la busqueda y detección de posibles linajes emerg
 **Manual para el Usuario**
 
 Para poder familiarizarse con los programa V.Tracker recomendamos usar los datos compartidos en la carpeta Data/
-y descargar los arcivhos scripts .ipynb. En la carpeta Data/ seguir las instrucciones del archivo Data_Information.rmd.
+y descargar los arcivhos scripts de Code_colab/ .ipynb. En la carpeta Data/ seguir las instrucciones del archivo Data_Information.rmd.
 para cada google colab.
 
 
