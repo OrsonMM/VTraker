@@ -48,6 +48,8 @@ para cada google colab.
 
 Es necesario instalar estos programas para el correcto funcionamiento 
 
+Mafft - para el alinemiento de los genomas - (https://mafft.cbrc.jp/alignment/software/)
+
 Iqtree2 - Para generar el análisis filogenético - (http://www.iqtree.org/)
 
 Nextclade - Para realizar anotación de genomas - (https://clades.nextstrain.org/)
