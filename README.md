@@ -41,8 +41,7 @@ para cada google colab.
 **Limitaciones**
 
 1. Actualmente el VTracker solo se encuentra disponible en formato Google colab.
-2. El análisis filogenético es necesario generar a parte. 
-3. Es necesario someterlo a más pruebas para comprobar su real rendimiento.
+2. Es necesario someterlo a más pruebas para comprobar su real rendimiento.
 
 **Desarrollo Futuro**
 
